@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_hero"
+        android:icon="@drawable/hero"
+        android:title="@string/title_hero" />
+
+    <item
+        android:id="@+id/navigation_item"
+        android:icon="@drawable/item"
+        android:title="@string/title_item" />
+
+    <item
+        android:id="@+id/navigation_synergies"
+        android:icon="@drawable/synergies"
+        android:title="@string/title_synergies" />
+
+    <item
+        android:id="@+id/navigation_tier"
+        android:icon="@drawable/tier"
+        android:title="@string/title_tier" />
+
+    <item
+        android:id="@+id/navigation_changelog"
+        android:icon="@drawable/tier"
+        android:title="@string/title_changelog" />
+</menu>

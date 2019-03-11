@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auto Chess Wiki</string>
+    <string name="title_hero">Hero</string>
+    <string name="title_item">Item</string>
+    <string name="title_synergies">Synergies</string>
+    <string name="title_tier">Tier</string>
+    <string name="title_changelog">Change Log</string>
+
+</resources>
